@@ -11,6 +11,12 @@ TIMEZONE = 'Europe/Paris'
 
 DEFAULT_LANG = 'en'
 
+THEME = 'themes/default/'
+
+# SITE SETTINGS
+INDEX_URL = 'blog'
+INDEX_SAVE_AS = f'{INDEX_URL}.html'
+
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
