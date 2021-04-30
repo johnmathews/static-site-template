@@ -9,3 +9,6 @@ __pycache__/
 
 output/
 cache/
+
+node_modules/
+
